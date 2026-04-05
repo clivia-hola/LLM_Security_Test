@@ -106,7 +106,7 @@ with st.sidebar:
         "DeepSeek API Key",
         value=st.session_state.api_key,
         type="password",
-        placeholder="sk-b691a67f20034733a5c6fa77b1b2ad95",
+        placeholder="sk-....",#修改为自己的deepseek api密码
     )
     if api_key_input:
         st.session_state.api_key = api_key_input
