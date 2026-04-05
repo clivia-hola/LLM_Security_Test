@@ -1,6 +1,5 @@
 """
 LLM安全评测工具 - 主入口
-对标百度大模型安全产品架构中的AIGC安全评测服务
 
 使用方法:
   export DEEPSEEK_API_KEY="your-key"
