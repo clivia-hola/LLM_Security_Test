@@ -1,6 +1,6 @@
 """
 测试执行引擎 —— 攻击目标：你自己的 chatbot
-唯一改动：call_target_model() 从裸调 DeepSeek API
+call_target_model() 从裸调 DeepSeek API
           换成带 system prompt 的 LangChain 调用，
           完全复现 chatbot.py 里的对话逻辑。
 """
