@@ -76,13 +76,6 @@ pip install -r requirements.txt
 ```bash
 export DEEPSEEK_API_KEY="sk-key-here"
 ```
-
-可选：如果你使用自定义网关地址，可再设置：
-
-```bash
-export DEEPSEEK_API_URL="https://api.deepseek.com/chat/completions"
-```
-
 ------
 
 ### 运行 Chatbot
