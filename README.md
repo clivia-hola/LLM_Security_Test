@@ -101,7 +101,7 @@ streamlit run chatbot.py
 
 ### Chatbot的界面
 
-![image-20260405210130435](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260405210130435.png)
+![Chatbot界面](docs/images/image-20260405210130435.png)
 
 ### 攻击 Chatbot 
 
@@ -123,7 +123,7 @@ python main.py
 
 #### 运行结果
 
-![image-20260405215753570](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260405215753570.png)
+![运行结果](docs/images/image-20260405215753570.png)
 
 ## 运行单元测试
 
@@ -140,7 +140,7 @@ python -m unittest discover -s tests -v
 
 #### 运行结果
 
-![image-20260405215854142](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260405215854142.png)
+![单元测试结果](docs/images/image-20260405215854142.png)
 
 ------
 
@@ -165,7 +165,7 @@ python -m unittest discover -s tests -v
 
 示例输出：
 
-![image-20260405210507077](C:\Users\Lenovo\AppData\Roaming\Typora\typora-user-images\image-20260405210507077.png)
+![评测指标示例](docs/images/image-20260405210507077.png)
 
 ------
 
