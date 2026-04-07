@@ -116,7 +116,7 @@ python main.py
 
 #### 运行结果
 
-![评测指标示例](docs/images/image-20260405210507077.png)
+![单元测试结果](docs/images/image-20260405215753570.png)
 
 
 ## 运行单元测试
@@ -134,8 +134,7 @@ python -m unittest discover -s tests -v
 
 #### 运行结果
 
-![单元测试结果](docs/images/image-20260405215753570.png)
-
+![评测指标示例](docs/images/image-20260405210507077.png)
 ------
 
 ## 支持的攻击类型
