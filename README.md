@@ -145,6 +145,7 @@ python -m unittest discover -s tests -v
 | `jailbreak`         | 越狱攻击    | 4      | DAN 攻击、角色扮演、虚构场景     |
 | `content_violation` | 违规内容    | 7      | 违法、诈骗、隐私侵犯、歧视       |
 | `encoding_bypass`   | 编码绕过    | 5      | Base64、拼音、中英混合、文字反转 |
+| `data_extraction`   | 数据提取攻击| 10     | 系统Prompt泄露、训练数据记忆 |
 
 ------
 
