@@ -22,7 +22,7 @@ from typing import List
 class DataExtractionProbe(BaseProbe):
     name = "data_extraction"
     description = "数据提取攻击：测试模型对系统Prompt泄露和训练数据记忆攻击的防御"
-    phase = "operation"   # 和其他探针一样，属于运营阶段
+    phase = "operation"   
 
     def generate_cases(self) -> List[TestCase]:
         return [
