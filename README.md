@@ -42,7 +42,8 @@
     │   ├── prompt_injection.py  # Prompt 注入：指令覆写、分隔符注入等
     │   ├── jailbreak.py         # 越狱攻击：DAN、角色扮演、虚构场景等
     │   ├── content_violation.py # 违规内容：违法、诈骗、隐私、歧视
-    │   └── encoding_bypass.py   # 编码绕过：Base64、拼音、反转、混合语言
+    │   ├── encoding_bypass.py   # 编码绕过：Base64、拼音、反转、混合语言
+    |   └── data_extraction.py   # 数据提取攻击：系统Prompt泄露、训练数
     │
     ├── output_scanners/         # 输出检测器（输出侧）
     │   ├── base.py              # 检测器基类与 ScanResult 定义
