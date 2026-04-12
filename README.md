@@ -135,7 +135,7 @@ python -m unittest discover -s tests -v
 
 #### 运行结果
 
-![评测指标示例](docs/images/image-20260405210507077.png)
+![评测指标示例](docs/images/docs/images/f65a4d079f6b90036db2ee360b3d8ca4.png)
 ------
 
 ## 支持的攻击类型
